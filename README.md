@@ -1,30 +1,37 @@
 # Koronet Developer Workspace
 
-Mini dashboard construido con React y Vite como estudio de los conceptos principales de react para consultar el estado de herramientas de desarrollo y obtener sugerencias rápidas sobre errores de código.
+Mini dashboard construido con **React** y **Vite** como ejercicio práctico para acelerar la curva de aprendizaje en React y el ecosistema frontend antes de la entrevista técnica. La aplicación permite consultar el estado de herramientas de desarrollo y obtener sugerencias rápidas sobre errores de código.
+
+## Contexto y Motivación
+
+Este proyecto fue desarrollado de forma autónoma por **mi persona** en respuesta al proceso de selección para el rol de **Contrato de Aprendizaje SENA** en **Koronet**.
+
+Al identificar que el perfil para la plataforma **DevEx (Developer Experience)** requiere desarrollo en React, decidí llevar mis bases de JavaScript y Node.js un paso más allá: diseñé e implementé este prototipo funcional en 48 horas para poner en práctica componentes funcionales, manejo de estado (`useState`), ciclo de vida (`useEffect`) y modularización, demostrando proactividad y capacidad de aprendizaje continuo.
 
 ## Funcionalidades
 
-- Buscador de herramientas controlado con `useState`.
-- Consulta simulada de servicios con `useEffect`.
-- Estados `Online` y `Offline` para GitHub, Vercel, API de Koronet y Figma.
-- Contador de servicios operativos y latencia simulada.
-- Asistente IA interactivo para generar una sugerencia de solución.
-- Diseño responsive para escritorio y dispositivos móviles.
+- **Buscador de herramientas:** Filtrado en tiempo real de servicios mediante estado controlado (`useState`).
+- **Monitoreo de servicios:** Consulta simulada de disponibilidad y latencia con `useEffect`.
+- **Indicadores de estado:** Estado `Online` / `Offline` dinámico para GitHub, Vercel, API de Koronet y Figma.
+- **Asistente IA:** Módulo interactivo de ayuda que sugiere soluciones rápidas a errores de código.
+- **Diseño Responsive:** Adaptado para escritorio y dispositivos móviles con CSS personalizado.
 
-> La consulta de servicios es una simulación local. No requiere claves de API ni conexión a un backend.
+> *Nota: La consulta de servicios es una simulación local asíncrona. No requiere claves de API ni conexión a un servidor externo.*
 
 ## Tecnologías
 
-- React 19
-- Vite
-- JavaScript (JSX)
-- Oxlint
-- CSS personalizado
+- **React 19**
+- **Vite**
+- **JavaScript (JSX)**
+- **Oxlint** (Linter)
+- **CSS3 / CSS Modules**
 
 ## Requisitos
 
 - Node.js 18 o superior
 - npm
+
+## Instalación
 
 ## Instalación
 
