@@ -4,7 +4,7 @@ Mini dashboard construido con **React** y **Vite** como ejercicio práctico para
 
 ## Contexto y Motivación
 
-Este proyecto fue desarrollado de forma autónoma por **Camilo** en respuesta al proceso de selección para el rol de **Contrato de Aprendizaje SENA** en **Koronet**.
+Este proyecto fue desarrollado de forma autónoma por **mi persona** en respuesta al proceso de selección para el rol de **Contrato de Aprendizaje SENA** en **Koronet**.
 
 Al identificar que el perfil para la plataforma **DevEx (Developer Experience)** requiere desarrollo en React, decidí llevar mis bases de JavaScript y Node.js un paso más allá: diseñé e implementé este prototipo funcional en 48 horas para poner en práctica componentes funcionales, manejo de estado (`useState`), ciclo de vida (`useEffect`) y modularización, demostrando proactividad y capacidad de aprendizaje continuo.
 
