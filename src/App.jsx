@@ -53,7 +53,7 @@ function App() {
       <Header />
       <main>
         <section className="welcome-row">
-          <div><p className="eyebrow">Panel de operaciones / 28 SEP 2026</p><h1>Todo bajo control.</h1><p className="intro">Una vista rápida para vigilar tus herramientas y desbloquear errores.</p></div>
+          <div><p className="eyebrow">Panel de operaciones / 29 SEP 2026</p><h1>Todo bajo control.</h1><p className="intro">Una vista rápida para vigilar tus herramientas y desbloquear errores.</p></div>
           <div className="health-summary"><span className="summary-ring"><strong>{services.length ? onlineCount : '—'}</strong><small>/{services.length || '—'}</small></span><span><b>Servicios</b><br />operativos</span></div>
         </section>
         <section className="workspace-grid" id="services">
